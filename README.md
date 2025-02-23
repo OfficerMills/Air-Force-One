@@ -11,6 +11,7 @@ Single Player Conversion & Interior Edits by **[SkylineGTRFreak](https://www.gta
 FiveM Conversion, Handling Edits, Photos by **[OfficerMills](https://discord.gg/OfficerMills)**
 ![Officer Mills GitHub stats](https://img.shields.io/github/followers/officermills)
 ![Discord](https://img.shields.io/discord/%3A1063028749169332284?style=plastic&logo=Discord&logoColor=Red&logoSize=auto&label=Discord&labelColor=Red&color=Red)
+![Twitch](https://img.shields.io/twitch/status/officermills?style=plastic&logo=Twitch&logoSize=auto&label=Twitch&link=https%3A%2F%2Fwww.twitch.com%2Fofficermills)
 
 ------------------------------------------------------
 
