@@ -67,8 +67,8 @@ I advise using a **Mods** folder (see OpenIV documentation) and making a backup 
 ------------------------------------------------------
 
 ## Contributions
-If you've found a bug, you can go ahead and create an [issue](https://github.com/OfficerMills).  
-If you've improved the resource, feel free to make a [pull request](https://github.com/OfficerMills)!
+If you've found a bug, you can go ahead and create an [issue](https://github.com/OfficerMills/Air-Force-One/issues).  
+If you've improved the resource, feel free to make a [pull request](https://github.com/OfficerMills/Air-Force-One/pulls)!
 
 ## License
 Copyright © 2025 Officer Mills.  
