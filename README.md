@@ -7,7 +7,7 @@ FSX
 Rockstar Games  
 
 Single Player Conversion & Interior Edits by **[SkylineGTRFreak](https://www.gta5-mods.com/users/skylinegtrfreak)**  
-FiveM Conversion, Handling Edits, Photos by **[OfficerMills](https://discord.gg/OfficerMills** https://img.shields.io/github/followers/officermills
+FiveM Conversion, Handling Edits, Photos by **[OfficerMills](https://discord.gg/OfficerMills)** ![Officer Mills GitHub stats](https://img.shields.io/github/followers/officermills)
 
 ------------------------------------------------------
 
