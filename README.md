@@ -2,7 +2,6 @@
 
 ## Air Force One
 ------------------------------------------------------
-![Downloads](https://img.shields.io/github/downloads/officermills/Air-Force-One/total?logo=Boeing&logoColor=%2387CEEB&label=Downloads&labelColor=%2387CEEB&color=%2387CEEB)
 
 #### Credits:
 FSX  
