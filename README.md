@@ -1,6 +1,10 @@
 # Boeing VC-25A
 
-## Air Force One
+## Air Force One <p align="right">
+  <img src="https://img.shields.io/github/followers/officermills" alt="Officer Mills GitHub stats"/>
+  <img src="https://img.shields.io/discord/%3A1063028749169332284?style=plastic&logo=Discord&logoColor=Red&logoSize=auto&label=Discord&labelColor=Red&color=Red" alt="Discord"/>
+  <img src="https://img.shields.io/twitch/status/officermills?style=plastic&logo=Twitch&logoSize=auto&label=Twitch&link=https%3A%2F%2Fwww.twitch.com%2Fofficermills" alt="Twitch"/>
+</p>
 ------------------------------------------------------
 <p align="center">
   <img src="https://img.shields.io/github/followers/officermills" alt="Officer Mills GitHub stats"/>
